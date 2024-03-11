@@ -2,6 +2,8 @@
 
 ![vini-j-pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=vini-j-pereira&show_icons=true&theme=dracula)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vinijpereira&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### Tecnologias que estou estudando.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

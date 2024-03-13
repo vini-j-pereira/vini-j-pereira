@@ -1,6 +1,13 @@
 ### Olá eu sou Vini JP!✌🏽
 
-![vini-j-pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=vini-j-pereira&show_icons=true&theme=dracula)
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/vini-j-pereira/3a58730c206966f7188f6df21d9f9e2b/raw/a99dcb81c55f2c0c7798b319b758274fd76d8977/git-card.svg"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vini-jpereira&color=yellow" alt="Profile views" /> </p>
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vini-j-pereira&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-j-pereira&layout=compact&theme=dracula" alt="vini-j-p's most languages"/>
+</p>
 
 
 ### Tecnologias que estou estudando.

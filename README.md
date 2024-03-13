@@ -1,7 +1,7 @@
 ### Olá eu sou Vini JP!✌🏽
 
 ![vini-j-pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=vini-j-pereira&show_icons=true&theme=dracula)
-![Gist Card](https://github-readme-stats.vercel.app/api/?username=vini-j-pereira&repo=github-readme-status)
+
 
 ### Tecnologias que estou estudando.
 

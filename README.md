@@ -59,12 +59,8 @@ Construir soluções reais usando **tecnologia descentralizada** que impactem po
  
 > – Vinícius José Pereira
 
-
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vini-j-pereira&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-j-pereira&layout=compact&theme=dracula" alt="vini-j-p's most languages"/>
 </p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vinijpereira&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)

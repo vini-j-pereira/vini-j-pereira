@@ -60,7 +60,7 @@ Construir soluções reais usando **tecnologia descentralizada** que impactem po
 ## 📬 Contato
 
 - 📧 E-mail: viniciusjosepereira@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](www.linkedin.com/in/vinicius-pereira-4b4b65236)   
+- 💼 LinkedIn: (www.linkedin.com/in/vinicius-pereira-4b4b65236)   
 
 ---
  

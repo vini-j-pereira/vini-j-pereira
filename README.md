@@ -64,5 +64,10 @@ Construir soluções reais usando **tecnologia descentralizada** que impactem po
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-j-pereira&layout=compact&theme=dracula" alt="vini-j-p's most languages"/>
 </p>
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 

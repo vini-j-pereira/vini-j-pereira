@@ -64,5 +64,5 @@ Construir soluções reais usando **tecnologia descentralizada** que impactem po
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-j-pereira&layout=compact&theme=dracula" alt="vini-j-p's most languages"/>
 </p>
 
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
